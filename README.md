@@ -6,8 +6,6 @@ I am a junior in the Cybersecurity program as an Honors student at the Universit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 (https://linkedin.com/in/https://www.linkedin.com/in/heather-scalzo-z/) 
 
-<img width="200" height="38" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-(2).png" />
-
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
