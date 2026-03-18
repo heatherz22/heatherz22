@@ -5,6 +5,7 @@ I am a junior in the Cybersecurity program as an Honors student at the Universit
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 (https://linkedin.com/in/https://www.linkedin.com/in/heather-scalzo-z/) 
+
 <img width="200" height="38" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-(2).png" />
 
 # 💻 Tech Stack:
