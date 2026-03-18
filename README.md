@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img width="200" height="38" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-(2).png" />
+
 I am a junior in the Cybersecurity program as an Honors student at the University of North Carolina Wilmington (UNCW). I want a future in a career that is hands-on, solves problems, and involves working with others. I am highly interested in working with governance, risk, and compliance (GRC) in some capacity, whether it be within cybersecurity or in a similar sector. I work for the Security Operations Center (SOC) as a SOC Analyst Apprentice and I am a Research Assistant at UNCW. I am the President of the UNCW Cyber Defense Club (CDC) and serve as a Human Resources Specialist within the Army National Guard.
 
 
